@@ -1,0 +1,12 @@
+.CartWidget {
+    display: flex;
+}
+
+.Contador {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    text-align: center;
+    margin-left: 5px;
+}
